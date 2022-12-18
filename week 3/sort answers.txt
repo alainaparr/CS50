@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because sort1 ran the fasted on a sorted list.
+
+sort2 uses: Merge Sort
+
+How do you know?: Becasuse sort2 ran the fasted on a random list.
+
+sort3 uses: Selection Sort
+
+How do you know?: Because sort3 took around the same time for random and sorted. It was also the only option left.
